@@ -1,0 +1,3 @@
+- Iconos- FontAwesome
+- Header (nav), main y footer
+- emepzar CSS con variables
